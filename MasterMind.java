@@ -20,6 +20,8 @@ public class MasterMind {
 		
 		System.out.println("Number of pegs:" + mg.getnumpegs());
 		
+		System.out.println("Number of colours:" + mg.getcolpegs());
+		
 		
 		//int [] grades = new int[4];
 		
