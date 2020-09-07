@@ -30,7 +30,7 @@ public class Peg {
 	
 	public String toString(){
 		String PegInfo;
-		PegInfo = this.loc + "   " + this.col;
+		PegInfo = "Peg location:" + this.loc + "   " + "Peg colour:" + this.col;
 		return PegInfo;
 		
 	}
