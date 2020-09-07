@@ -28,7 +28,8 @@ public class MasterMindGame {
 	}
 	
 	public int getcolpegs(){
-		return getcolpegs;
+		//return getcolpegs;
+		return numcolpegs;
 	}
 	
 	public String toString(){
