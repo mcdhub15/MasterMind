@@ -4,4 +4,4 @@ I would like to use the MasterMind project as a teaching tool to help students u
 decomposition and procedural abstraction.    I would love to hear from other developers how
 they approach a problem and connect data to code.
 
-We will attempt to use Github to manage version control and write code in a team.
+We will attempt to use Github to manage version control and write code collaboratively in teams.
