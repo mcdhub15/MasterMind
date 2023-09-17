@@ -5,3 +5,6 @@ decomposition and procedural abstraction.    I would love to hear from other dev
 they approach a problem and connect data to code.
 
 We will attempt to use Github to manage version control and write code collaboratively in teams.
+
+
+
